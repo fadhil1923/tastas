@@ -1,0 +1,55 @@
+.external {
+    background-color: chartreuse;
+}
+.first-div {
+    background-color: red;
+}
+.second-div {
+    background-color: blue;
+}
+
+.box1 {
+    background-color: green;
+    height: 70px;
+    width: 70px;
+}
+.box2 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.box3 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.nav {
+    background-color: yellow;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.menu1 {
+    background-color: blue;
+}
+.menu2 {
+    background-color: green;
+}
+.menu3 {
+    color: white;
+    background-color: grey;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.content1 {
+    background-color: red;
+}
+.content2 {
+    background-color: green;
+}
+.content3 {
+    color: white;
+    background-color: blue;
+}
